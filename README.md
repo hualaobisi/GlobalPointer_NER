@@ -16,7 +16,7 @@ The idea is from [GlobalPointer](https://kexue.fm/archives/8373).
 ## Dataset
 The current dataset used in the code is just for demonstration purposes. If you need a more formal dataset, you can download it from [here](https://tianchi.aliyun.com/dataset/dataDetail?dataId=95414#1), or you can use your own dataset.
 
-## Usage:
+## Quick Start:
 1. Clone this code repository to your local machine:
 ```sh
 $ git clone https://github.com/hualaobisi/GlobalPointer_NER.git
