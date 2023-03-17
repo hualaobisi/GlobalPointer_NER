@@ -42,3 +42,7 @@ $ python train_CME.py
 ```sh
 $ python predict_CME.py
 ```
+
+## License
+
+[MIT](LICENSE) © Liwan Zhou
